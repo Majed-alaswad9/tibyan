@@ -1,0 +1,26 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"results\":[{\"id\":\"quran:3:17:ar\",\"title\":\"آل عِمران 3:17\",\"url\":\"https://islamenc.com/ar/quran/3/17\"},{\"id\":\"hadith:65629:ar\",\"title\":\"خرجنا مع أبان بن عثمان حتى إذا كنا بِمَلَلٍ اشتكى عمر بن عبيد الله عينيه\",\"url\":\"https://hadeethenc.com/ar/browse/hadith/65629\"}]}"
+    },
+    {
+      "type": "text",
+      "text": "1. [quran] آل عِمران 3:17\n   https://islamenc.com/ar/quran/3/17\n   ٱلصَّٰبِرِينَ وَٱلصَّٰدِقِينَ وَٱلۡقَٰنِتِينَ وَٱلۡمُنفِقِينَ وَٱلۡمُسۡتَغۡفِرِينَ بِٱلۡأَسۡحَارِ\n2. [hadith] خرجنا مع أبان بن عثمان حتى إذا كنا بِمَلَلٍ اشتكى عمر بن عبيد الله عينيه\n   https://hadeethenc.com/ar/browse/hadith/65629\n   عن نُبَيه بن وهب قال: خرجنا مع أبان بن عثمان حتى إذا كنا بِمَلَلٍ اشتكى عمر بن عبيد الله عينيه، فلما كنا بالروحاء اشتدَّ وجعه، فأرسل إلى أبان بن عثمان يسأله، فأرسل إليه أن اضمدهما بالصَّبِر، فإن عثمان رضي الله عنه حدث عن رسول الله صلى الله عليه وسلم في الرجل إذا اشتكى عينيه وهو محرم ضمَّدَهما بالصَّبِر.\n\nquran: 3 of 41 | hadith: 3 of 14 | library: unavailable (HTTP 502)\n\n──────── CITE ────────\nEvery result you carry into your reply must bring the URL printed beside it above, in full and exactly as it stands. Do not rebuild a link from an id, and do not put the publisher’s name where the link belongs."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "id": "quran:3:17:ar",
+        "title": "آل عِمران 3:17",
+        "url": "https://islamenc.com/ar/quran/3/17"
+      },
+      {
+        "id": "hadith:65629:ar",
+        "title": "خرجنا مع أبان بن عثمان حتى إذا كنا بِمَلَلٍ اشتكى عمر بن عبيد الله عينيه",
+        "url": "https://hadeethenc.com/ar/browse/hadith/65629"
+      }
+    ]
+  }
+}

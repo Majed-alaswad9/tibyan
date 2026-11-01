@@ -1,0 +1,56 @@
+name: tibyan
+description: Islamic source search with offline history and resumable conversations.
+
+publish_to: none
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+
+  provider: ^6.1.5+1
+  drift: ^2.35.3
+  drift_flutter: ^0.3.1
+  mcp_dart: ^2.4.3
+  http: ^1.6.0
+  url_launcher: ^6.3.3
+  share_plus: ^13.3.1
+  intl: ^0.20.3
+  dio: ^5.11.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  drift_dev: ^2.35.2
+  build_runner: ^2.17.1
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo.png
+    - assets/fonts/OFL-Amiri.txt
+  fonts:
+    - family: AmiriQuran
+      fonts:
+        - asset: assets/fonts/AmiriQuran.ttf
+          weight: 400
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo-Regular.ttf
+        - asset: assets/fonts/Cairo-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Cairo-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Cairo-Bold.ttf
+          weight: 700
